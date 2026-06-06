@@ -1,7 +1,8 @@
-# AI Chatbot Web Application 🤖
+# AI Chatbot Web Application
 
-## THINK CHAMP PVT LTD
-### Internship Mini Project — AI Chatbot Web Application
+## THINK CHAMP PV LTD
+
+### Internship Mini Project – AI Chatbot Web Application
 
 ---
 
@@ -21,32 +22,36 @@ Develop an AI-powered chatbot application that can:
 - Connect frontend with backend
 - Create an interactive AI web application
 
----## Project Description
+---
 
-The application works in a web browser using Flask as the backend framework. Users can type messages into the chatbot interface, and the system responds automatically based on predefined responses or basic Machine Learning logic. The project provides a smooth user interaction experience using an attractive frontend design.
+## Project Description
+
+The application works in a web browser using Flask as the backend framework. Users can type messages into the chatbot interface, and the system responds automatically based on predefined responses or basic Machine Learning logic. The project should provide a smooth user interaction experience using an attractive frontend design.
 
 ---
 
 ## Mandatory Features
 
-- ✅ Welcome Page
-- ✅ Chat Interface
-- ✅ User Message Input
-- ✅ AI Response Generation
-- ✅ Flask Backend Integration
-- ✅ Dynamic Chat Display
-- ✅ Attractive User Interface
-- ✅ Multiple User Queries Handling
+- Welcome Page
+- Chat Interface
+- User Message Input
+- AI Response Generation
+- Flask Backend Integration
+- Dynamic Chat Display
+- Attractive User Interface
+- Multiple User Queries Handling
 
 ---
 
 ## Optional Features
 
-- ✅ Animated Typing Indicator
-- ✅ Quick Topic Buttons
-- ✅ Futuristic UI Design
-- ✅ Sidebar Navigation
-- ✅ Keyboard (Enter key) Support
+- Voice Input
+- Dark Mode
+- Login System
+- Chat History
+- Real-Time Responses
+- AI API Integration
+- Responsive Design
 
 ---
 
@@ -69,68 +74,31 @@ AI_Chatbot/
 ## Sample Output
 
 ```
-Welcome to NOVA — AI Chatbot
+Welcome to AI Chatbot
 
 User: Hello
-Bot: Hello! I am NOVA, your AI Assistant! How can I help you today?
-
-User: What is Python?
-Bot: Python is a high-level programming language used for web development, AI, and data science.
+Bot: Hi! How can I help you today?
 
 User: What is Machine Learning?
-Bot: Machine Learning is a branch of AI where computers learn from data automatically!
+Bot: Machine Learning is a branch of AI that allows systems to learn from data.
 
 User: Bye
-Bot: Goodbye! Have a great day! 👋
-```
-
----
-
-## How to Run
-
-1. Install Flask:
-```
-pip install flask
-```
-
-2. Run the application:
-```
-python app.py
-```
-
-3. Open browser and go to:
-```
-http://127.0.0.1:5000
+Bot: Goodbye! Have a great day.
 ```
 
 ---
 
 ## Submission Requirements
 
-- ✅ Python Source Code
-- ✅ Output Screenshots
-- ✅ Project Report
-- ✅ README File
+Students must submit:
 
----
-
-## Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| Python | Backend Programming |
-| Flask | Web Framework |
-| HTML5 | Frontend Structure |
-| CSS3 | Styling & Design |
-| JavaScript | Dynamic Interactions |
-| JSON | Response Data Storage |
+- Source Code
+- Output Screenshots
+- Project Report
+- README File
 
 ---
 
 ## Author
 
-**Think Champ Internship — Python with Generative AI (May 2026)**
-
-Submitted by: K. Sravya
-
-Submitted to: Guru Lokesh Sir, CEO — ThinkChamp Pvt. Lmt
+Think Champ Internship — Python with Generative AI (May 2026)
